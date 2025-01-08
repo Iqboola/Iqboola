@@ -1,6 +1,6 @@
 # Salam, I'm Ali
 
-🚀 **Cloud Engineer** | 📸 **Photographer** | ⌨️ **Keyboard Enthusiast**
+🎓 **CS Student** | 🚀 **Cloud Engineer** | 📸 **Photographer** | ⌨️ **Keyboard Enthusiast**
 
 ---
 
