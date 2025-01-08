@@ -33,5 +33,5 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 <a href="https://www.linkedin.com/in/ali-iqbal-422759198/" target="_blank">LinkedIn</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-iqbal-422759198/) 
 - 📸 [Photography Portfolio (working on it 👀)](#)
