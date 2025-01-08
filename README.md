@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 - 🎓 **Computer Science Student at UTA**
-- 🛠️ **Cloud Computing Enthusiast**
+- 🛠️ **Azure Engineer**
 - 📷 **Landscape Photographer**
 - ⌨️ **Keyboard Enthusiast**
 
